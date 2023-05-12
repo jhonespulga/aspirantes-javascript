@@ -6,4 +6,4 @@ Utiliza la formula para retornar el BMI correspondiente. Debes ejecutar tu archi
 function bmi (peso,altura){
     return peso / (altura * altura)
 }
-console.log(bmi(68,1.75));
+console.log(bmi(71,1.70));
