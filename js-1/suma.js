@@ -4,4 +4,4 @@
  function suma (numero){
     return (numero * (numero + 1) /2)
  }
- console.log(suma(7));
+ console.log(suma());
